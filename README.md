@@ -2,7 +2,7 @@
   <img width="128" height="128" src="https://user-images.githubusercontent.com/128066597/264610335-49e0a590-20fd-4b0a-b8e3-05e9aa137cdc.png">
 </p>
 <p align="center">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/YuanKong666/Ultimate-RAT-Collection">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/cyber-dr4gon/Ultimate-RAT-Collection">
 </p>
 
 <h1 align="center">Password: infected</h1>
